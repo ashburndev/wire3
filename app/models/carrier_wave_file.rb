@@ -1,0 +1,2 @@
+class CarrierWaveFile < ApplicationRecord
+end

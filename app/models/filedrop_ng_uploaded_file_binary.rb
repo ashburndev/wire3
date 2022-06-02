@@ -1,0 +1,2 @@
+class FiledropNgUploadedFileBinary < ApplicationRecord
+end

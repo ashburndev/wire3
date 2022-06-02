@@ -1,0 +1,2 @@
+class DigestedDatum < ApplicationRecord
+end
